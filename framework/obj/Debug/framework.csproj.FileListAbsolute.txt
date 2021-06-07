@@ -1,0 +1,7 @@
+C:\Users\demouser2\source\repos\framework\framework\bin\Debug\framework.exe.config
+C:\Users\demouser2\source\repos\framework\framework\bin\Debug\framework.exe
+C:\Users\demouser2\source\repos\framework\framework\bin\Debug\framework.pdb
+C:\Users\demouser2\source\repos\framework\framework\obj\Debug\framework.csprojAssemblyReference.cache
+C:\Users\demouser2\source\repos\framework\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Users\demouser2\source\repos\framework\framework\obj\Debug\framework.exe
+C:\Users\demouser2\source\repos\framework\framework\obj\Debug\framework.pdb
